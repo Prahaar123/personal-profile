@@ -4,7 +4,7 @@
 Includes responsive design, canvas-based background animation, and sections for About, Skills, Projects, Achievements, and Contact.
 
 ## 🔗 Live Site
-[https://Prahaar123github.io/personal-profile/](https://Prahaar123github.io/personal-profile/)
+[https://prahaar123.github.io/personal-profile/](https://prahaar123.github.io/personal-profile/)
 
 ## 🛠 Technologies
 - HTML5
